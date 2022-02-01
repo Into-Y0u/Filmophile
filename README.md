@@ -1,10 +1,7 @@
 # Getting Started with Create React App
 
-
-Learnt from Roadside coder Youtube channel 
-Deployed on Netlify
-
-link : https://cranky-curie-678c36.netlify.app/ 
+New Readme coming soon
+link : https://filmophile.netlify.app/
 
 
 
