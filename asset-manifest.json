@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/filmophile/static/css/main.6da9ac3c.chunk.css",
+    "main.js": "/filmophile/static/js/main.3d8abb0f.chunk.js",
+    "main.js.map": "/filmophile/static/js/main.3d8abb0f.chunk.js.map",
+    "runtime-main.js": "/filmophile/static/js/runtime-main.9b338177.js",
+    "runtime-main.js.map": "/filmophile/static/js/runtime-main.9b338177.js.map",
+    "static/css/2.98230c89.chunk.css": "/filmophile/static/css/2.98230c89.chunk.css",
+    "static/js/2.d3e5949d.chunk.js": "/filmophile/static/js/2.d3e5949d.chunk.js",
+    "static/js/2.d3e5949d.chunk.js.map": "/filmophile/static/js/2.d3e5949d.chunk.js.map",
+    "index.html": "/filmophile/index.html",
+    "static/css/2.98230c89.chunk.css.map": "/filmophile/static/css/2.98230c89.chunk.css.map",
+    "static/css/main.6da9ac3c.chunk.css.map": "/filmophile/static/css/main.6da9ac3c.chunk.css.map",
+    "static/js/2.d3e5949d.chunk.js.LICENSE.txt": "/filmophile/static/js/2.d3e5949d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b338177.js",
+    "static/css/2.98230c89.chunk.css",
+    "static/js/2.d3e5949d.chunk.js",
+    "static/css/main.6da9ac3c.chunk.css",
+    "static/js/main.3d8abb0f.chunk.js"
+  ]
+}
