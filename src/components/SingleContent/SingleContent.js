@@ -11,8 +11,8 @@ const SingleContent = ({
     date,
     media_type,
     vote_average,
-}) => {
-    console.log({title})
+    }) => {
+    // console.log({title})
     return (
         <ContentModal media_type={media_type} id={id}  >
             <Badge badgeContent = {vote_average} color = {vote_average > 6 ? 'primary' : 'secondary'}  />
@@ -22,10 +22,6 @@ const SingleContent = ({
                     {media_type==='tv'?"Tv Series" : "Movies" }
                     <span className="subTitle" >{date}</span>
                 </span>
-               
-            
-            
-            
         </ContentModal>
     )
 }

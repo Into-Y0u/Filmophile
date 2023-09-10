@@ -100,7 +100,7 @@ export default function TransitionsModal({ children, media_type, id }) {
           {content && (
             <div className={classes.paper}>
               <div className="ContentModal">
-                <Tilt  className="ContentModal__portrait" options={{ scale: 1.2, max: 30 ,speed : 1000 }} style = {{paddingLeft : 0 }} >
+                <div  className="ContentModal__portrait" >
                   <img
                     src={
                       content.poster_path
@@ -110,7 +110,7 @@ export default function TransitionsModal({ children, media_type, id }) {
                     alt={content.name || content.title}
                     
                   />
-                </Tilt>
+                </div>
                   <img
                     src={
                       content.backdrop_path
